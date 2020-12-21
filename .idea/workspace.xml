@@ -3,14 +3,56 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7452390e-773b-41ab-a5a0-67f043b60dd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_3_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_jakarta_mail_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_junit_2_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_test_2_2_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-mapper/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/AdjustsalaryMapper.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/AdjustsalaryMapper.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/AppraiseMapper.class" beforeDir="false" />
@@ -55,35 +97,7 @@
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/SalaryMapper.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/SysMsgMapper.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/SysMsgMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/vhr-mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-mapper/vhr-mapper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Adjustsalary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Appraise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Department.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Employeeec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Employeeremove.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Employeetrain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Empsalary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Hr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/HrRole.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/JobLevel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/MailSendLog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/MenuRole.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Meta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/MsgContent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Nation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/OpLog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/PoliticsStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Position.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/RespBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/RespPageBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Role.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Salary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/SysMsg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/vhr-model.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/vhr-model.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Hr.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Hr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/DepartmentService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/EmployeeService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/HrService.class" beforeDir="false" />
@@ -96,8 +110,8 @@
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/utils/HrUtils.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/utils/POIUtils$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/utils/POIUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/vhr-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-service/vhr-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-web/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/VhrApplication.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/config/CustomFilterInvocationSecurityMetadataSource.class" beforeDir="false" />
@@ -120,7 +134,6 @@
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/converter/DateConverter.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/exception/GlobalExceptionHandler.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/test-classes/ccs/com/vhr/VhrApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/vhr-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-web/vhr-web.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,16 +160,46 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../work/svn-work" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
-  <component name="RunManager">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.vhr-mailserver">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vhr-mailserver" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mailserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ccs.com.mailserver.MailServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="vhr-web" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="vhr-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ccs.com.vhr.VhrApplication" />
@@ -165,6 +208,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.vhr-mailserver" />
+      <item itemvalue="Spring Boot.vhr-web" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -177,17 +224,73 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608544943495</updated>
-      <workItem from="1608544945125" duration="264000" />
+      <workItem from="1608544945125" duration="1862000" />
+      <workItem from="1608564887100" duration="1522000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608545208683">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608565311818">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1608545208683" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1608565311818" />
+    <state x="490" y="160" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608565275765">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="490" y="160" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1608565275765" />
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1608565744586">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608565744586" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1608565744586">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608565744586" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1608565744586">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608565744586" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1608565744586">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608565744586" />
+    <state width="1493" height="206" key="GridCell.Tab.1.bottom" timestamp="1608565511610">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608565511610" />
+    <state width="1493" height="206" key="GridCell.Tab.1.center" timestamp="1608565511610">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1608565511610" />
+    <state width="1493" height="206" key="GridCell.Tab.1.left" timestamp="1608565511610">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1608565511610" />
+    <state width="1493" height="206" key="GridCell.Tab.1.right" timestamp="1608565511610">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1608565511610" />
+    <state x="356" y="107" key="new project wizard" timestamp="1608565064059">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="356" y="107" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1608565064059" />
+    <state x="425" y="189" width="672" height="677" key="run.anything.popup" timestamp="1608565511556">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" width="672" height="677" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1608565511556" />
   </component>
 </project>
