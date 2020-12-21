@@ -10,6 +10,7 @@
         <version>2.3.3.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>ccs.com</groupId>
     <artifactId>vhr-proj</artifactId>
     <packaging>pom</packaging>
@@ -17,6 +18,4 @@
     <modules>
         <module>vhrserver</module>
     </modules>
-
-
 </project>

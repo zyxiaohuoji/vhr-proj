@@ -9,7 +9,6 @@
         <module name="vhr-service" />
         <module name="vhr-web" />
         <module name="vhr-model" />
-        <module name="vhrserver" />
         <module name="vhr-mapper" />
       </profile>
     </annotationProcessing>

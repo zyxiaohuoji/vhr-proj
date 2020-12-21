@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7452390e-773b-41ab-a5a0-67f043b60dd9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-mapper/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/AdjustsalaryMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/AdjustsalaryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/AppraiseMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/AppraiseMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/DepartmentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/DepartmentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/EmployeeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/EmployeeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/EmployeeecMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/EmployeeecMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/EmployeeremoveMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/EmployeeremoveMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/EmployeetrainMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/EmployeetrainMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/EmpsalaryMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/EmpsalaryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/HrMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/HrMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/HrRoleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/HrRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/JoblevelMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/JoblevelMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/MailSendLogMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/MailSendLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/MenuMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/MenuRoleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/MenuRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/MsgContentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/MsgContentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/NationMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/NationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/OpLogMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/OpLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/PoliticsStatusMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/PoliticsStatusMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/PositionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/PositionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/RoleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/RoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/SalaryMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/SalaryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/SysMsgMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/target/classes/ccs/com/vhr/mapper/SysMsgMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/vhr-mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-mapper/vhr-mapper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Adjustsalary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Appraise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Employeeec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Employeeremove.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Employeetrain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Empsalary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Hr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/HrRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/JobLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/MailSendLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/MenuRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Meta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/MsgContent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Nation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/OpLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/PoliticsStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/RespBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/RespPageBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Salary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/SysMsg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/vhr-model.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/vhr-model.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/DepartmentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/EmployeeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/HrService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/JobLevelService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/MenuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/NationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/PoliticsStatusService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/PositionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/RoleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/utils/HrUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/utils/POIUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/target/classes/ccs/com/vhr/service/utils/POIUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/vhr-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-service/vhr-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/VhrApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/config/CustomFilterInvocationSecurityMetadataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/config/CustomUrlDecisionManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/config/VhrSecurityConfig$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/config/VhrSecurityConfig$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/config/VhrSecurityConfig$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/config/VhrSecurityConfig$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/config/VhrSecurityConfig$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/config/VhrSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/controller/SystemConfigController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/controller/emp/EmpBasicController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/controller/system/HrController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/controller/system/basic/DepartmentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/controller/system/basic/JobLevelController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/controller/system/basic/PermissController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/controller/system/basic/PositionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/converter/DateConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/classes/ccs/com/vhr/exception/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/target/test-classes/ccs/com/vhr/VhrApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/vhr-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-web/vhr-web.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\repo\maven-repo" />
+        <option name="mavenHome" value="E:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="E:\SetupZIP\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lxi3B4aXqzBuoT7VioV8j8Nf0K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../work/svn-work" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager">
+    <configuration name="vhr-web" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vhr-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ccs.com.vhr.VhrApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zy\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7452390e-773b-41ab-a5a0-67f043b60dd9" name="Default Changelist" comment="" />
+      <created>1608544943495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608544943495</updated>
+      <workItem from="1608544945125" duration="264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608545208683">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1608545208683" />
+  </component>
+</project>
