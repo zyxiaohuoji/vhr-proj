@@ -3,6 +3,10 @@ package ccs.com.vhr.service;
 import ccs.com.vhr.mapper.EmployeeMapper;
 import ccs.com.vhr.model.Employee;
 import ccs.com.vhr.model.RespPageBean;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.amqp.rabbit.annotation.RabbitListener;
+import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -14,8 +18,13 @@ import java.util.List;
 @Service
 public class EmployeeService {
 
+    public static final Logger LOGGER = LoggerFactory.getLogger(EmployeeService.class);
+
     @Autowired
     EmployeeMapper employeeMapper;
+
+    @Autowired
+    RabbitTemplate rabbitTemplate;
 
     SimpleDateFormat yearFormat = new SimpleDateFormat("yyyy");
     SimpleDateFormat monthFormat = new SimpleDateFormat("MM");
@@ -47,7 +56,14 @@ public class EmployeeService {
         if(!"离职".equals(employee.getWorkState())) {
             employee.setWorkState("在职");
         }
-        return employeeMapper.insertSelective(employee);
+        int result = employeeMapper.insertSelective(employee);
+
+        if(result == 1) {
+            Employee emp = employeeMapper.getEmployeeById(employee.getId());
+            LOGGER.info(emp.toString());
+            rabbitTemplate.convertAndSend("vhr.mail.queue.welcome", emp);
+        }
+        return result;
     }
 
     public Integer maxWorkId() {

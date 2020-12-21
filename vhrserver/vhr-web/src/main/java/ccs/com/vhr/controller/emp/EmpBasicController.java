@@ -43,7 +43,7 @@ public class EmpBasicController {
     }
 
     @PostMapping("/")
-    public RespBean addEmpp(@RequestBody Employee employee) {
+    public RespBean addEmp(@RequestBody Employee employee) {
         if (employeeService.addEmp(employee) == 1){
             return RespBean.ok("添加成功!", employee);
         }
