@@ -23,33 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7452390e-773b-41ab-a5a0-67f043b60dd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mailserver/src/main/java/ccs/com/mailserver/receiver/MailReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vhrserver/vhr-service/src/main/java/ccs/com/vhr/service/SalaryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vhrserver/vhr-web/src/main/java/ccs/com/vhr/controller/salary/SalaryController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mailserver/src/main/java/ccs/com/mailserver/MailServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mailserver/src/main/java/ccs/com/mailserver/MailServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mailserver/src/main/resources/templates/mail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mailserver/src/main/resources/templates/mail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-mapper/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/src/main/java/ccs/com/vhr/mapper/EmployeeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-mapper/src/main/java/ccs/com/vhr/mapper/EmployeeMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/src/main/java/ccs/com/vhr/mapper/EmployeeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-mapper/src/main/java/ccs/com/vhr/mapper/EmployeeMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/vhr-mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-mapper/vhr-mapper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Hr.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Hr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/JobLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/JobLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Nation.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Nation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/PoliticsStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/PoliticsStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Department.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Hr.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Hr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/JobLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/JobLevel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Nation.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Nation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/PoliticsStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/PoliticsStatus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/ccs/com/vhr/model/Position.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/src/main/java/ccs/com/vhr/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-service/src/main/java/ccs/com/vhr/service/EmployeeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/vhr-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-service/vhr-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/src/main/java/ccs/com/vhr/controller/emp/EmpBasicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-web/src/main/java/ccs/com/vhr/controller/emp/EmpBasicController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-web/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/vhr-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-web/vhr-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/src/main/java/ccs/com/vhr/mapper/SalaryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-mapper/src/main/java/ccs/com/vhr/mapper/SalaryMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/src/main/java/ccs/com/vhr/mapper/SalaryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-mapper/src/main/java/ccs/com/vhr/mapper/SalaryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/ccs/com/vhr/model/Salary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,14 +92,14 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.vhr-mailserver">
+  <component name="RunManager" selected="Spring Boot.vhr-web">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -166,6 +145,8 @@
       <updated>1608544943495</updated>
       <workItem from="1608544945125" duration="1862000" />
       <workItem from="1608564887100" duration="8088000" />
+      <workItem from="1608611163980" duration="3279000" />
+      <workItem from="1608690428540" duration="7909000" />
     </task>
     <servers />
   </component>
@@ -182,55 +163,68 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608565311818">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1608565311818" />
+    <state x="574" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1608691907804">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1608691907804" />
     <state x="490" y="160" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608565275765">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="160" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1608565275765" />
-    <state width="1493" height="484" key="GridCell.Tab.0.bottom" timestamp="1608572982278">
+    <state width="854" height="310" key="GridCell.Tab.0.bottom" timestamp="1608708793011">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="484" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608572982278" />
-    <state width="1493" height="484" key="GridCell.Tab.0.center" timestamp="1608572982278">
+    <state width="854" height="310" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608708793011" />
+    <state width="854" height="310" key="GridCell.Tab.0.center" timestamp="1608708793011">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="484" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608572982278" />
-    <state width="1493" height="484" key="GridCell.Tab.0.left" timestamp="1608572982277">
+    <state width="854" height="310" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608708793011" />
+    <state width="854" height="310" key="GridCell.Tab.0.left" timestamp="1608708793011">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="484" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608572982277" />
-    <state width="1493" height="484" key="GridCell.Tab.0.right" timestamp="1608572982278">
+    <state width="854" height="310" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608708793011" />
+    <state width="854" height="310" key="GridCell.Tab.0.right" timestamp="1608708793011">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="484" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608572982278" />
-    <state width="1493" height="484" key="GridCell.Tab.1.bottom" timestamp="1608572982278">
+    <state width="854" height="310" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608708793011" />
+    <state width="854" height="310" key="GridCell.Tab.1.bottom" timestamp="1608708793012">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="484" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608572982278" />
-    <state width="1493" height="484" key="GridCell.Tab.1.center" timestamp="1608572982278">
+    <state width="854" height="310" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608708793012" />
+    <state width="854" height="310" key="GridCell.Tab.1.center" timestamp="1608708793012">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="484" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1608572982278" />
-    <state width="1493" height="484" key="GridCell.Tab.1.left" timestamp="1608572982278">
+    <state width="854" height="310" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1608708793012" />
+    <state width="854" height="310" key="GridCell.Tab.1.left" timestamp="1608708793012">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="484" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1608572982278" />
-    <state width="1493" height="484" key="GridCell.Tab.1.right" timestamp="1608572982278">
+    <state width="854" height="310" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1608708793012" />
+    <state width="854" height="310" key="GridCell.Tab.1.right" timestamp="1608708793012">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="484" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1608572982278" />
-    <state x="356" y="107" key="new project wizard" timestamp="1608565064059">
+    <state width="854" height="310" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1608708793012" />
+    <state x="540" y="53" key="SettingsEditor" timestamp="1608704827395">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="356" y="107" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1608565064059" />
+    <state x="540" y="53" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1608704827395" />
+    <state x="356" y="107" key="new project wizard" timestamp="1608614335668">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="356" y="107" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1608614335668" />
     <state x="425" y="189" width="672" height="677" key="run.anything.popup" timestamp="1608565511556">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="425" y="189" width="672" height="677" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1608565511556" />
+    <state x="736" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1608705038492">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="736" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1608705038492" />
   </component>
 </project>
